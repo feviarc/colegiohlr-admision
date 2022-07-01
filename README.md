@@ -1,2 +1,2 @@
 # colegiohlr-admision
-Colegio HLR - Examen de Admisión
+Interfaz para el examen admisión
